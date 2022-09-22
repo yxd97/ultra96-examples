@@ -1,0 +1,8 @@
+# vscode configurations
+.vscode
+
+# logs
+*.log
+
+# build temporary files
+build*
